@@ -1,0 +1,4 @@
+baseURL = "http://abrokwa.org/"
+languageCode = "en-us"
+title = "Kelvin Abrokwa-Johnson"
+theme = "hugo-kiera"
